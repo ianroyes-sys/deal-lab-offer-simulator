@@ -1,0 +1,12 @@
+{
+  "name": "deal-lab-offer-simulator",
+  "version": "1.0.0",
+  "description": "Offer economics simulator for a build-fee + retainer app studio.",
+  "type": "module",
+  "bin": { "deal-lab": "bin/deal-lab.mjs" },
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "scenario": "node bin/deal-lab.mjs scenario"
+  }
+}

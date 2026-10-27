@@ -1,0 +1,6 @@
+{
+  "clients": [
+    { "slug": "harbor-bakery", "name": "Harbor Bakery", "app": "Ordering + rewards app", "design": "Warm cream and copper", "tier": "prospect" },
+    { "slug": "northside-climbing", "name": "Northside Climbing", "app": "Member app", "design": "Chalk white and teal", "tier": "delivered" }
+  ]
+}

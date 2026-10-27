@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+# Real business data stays local. Only data/example/ is committed.
+data/*.json
+data/*.md
+data/drafts/

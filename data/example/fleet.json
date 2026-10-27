@@ -1,0 +1,5 @@
+[
+  { "name": "Harbor Bakery", "tagline": "Pre-orders and loyalty stamps for a neighborhood bakery.", "status": "testflight", "needs": "App Store screenshots", "color": "#e8a25c" },
+  { "name": "Northside Climbing", "tagline": "Class schedule, day passes and route-setting news for a climbing gym.", "status": "live", "url": "https://example.com", "color": "#5cc8e8" },
+  { "name": "Quiet Hours", "tagline": "Daily focus timer with streaks.", "status": "building", "color": "#9a8cf0" }
+]

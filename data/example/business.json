@@ -1,0 +1,12 @@
+{
+  "ledger": { "asOf": "2026-01-15", "collected": 3000, "mrr": 198 },
+  "retainers": [
+    { "client": "Northside Climbing", "amount": 99, "cadence": "monthly", "status": "active", "nextInvoice": "2026-02-01" }
+  ],
+  "needsYou": [
+    { "title": "Send the Harbor Bakery walkthrough link", "why": "The demo is on TestFlight; the owner asked to see it on her phone.", "steps": ["Add her as an external tester", "Record a 60-second walkthrough"] }
+  ],
+  "artifacts": [
+    { "label": "Pricing one-pager", "note": "Build + upkeep terms", "url": "https://example.com/pricing" }
+  ]
+}
